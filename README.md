@@ -1,2 +1,8 @@
 # fifa-worldcup
+
 Predict which team is going to win each match
+
+
+# About us
+
+[Replai](https://replai.cl/)
